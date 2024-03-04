@@ -2,7 +2,7 @@
 
 ## Apply Lightweight Fine-Tuning to a Foundation Model
 
-Load and customize a Hugging Face foundation model using parameter-efficient fine-tuning.
+Customize a vision transformer ([ViT](https://arxiv.org/abs/2010.11929)) to solve skin cancer classification using low-rank adaptation ([LoRA](https://arxiv.org/abs/2106.09685)).
 
 ![teaser](./images/vit-base-patch16-224-skin_cancer_inferences.png)
 
